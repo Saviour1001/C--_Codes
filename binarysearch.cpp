@@ -19,13 +19,23 @@ int binarySearch(int arr[],int n,int key)
         {
             e=mid-1;
         }
-        return -1;
+        
     }
+    return -1;
 
 }
 int main()
 {
-    cin>>n;
-    
+    int a;
+    cin>>a;
+    int arr[a];
+    for(int i=0;i<a;i++)
+    {
+        cin>>arr[i];
+    }
+    int k;
+    cin>>k;
+    cout<<binarySearch(arr,a,k);
+    return 0;
 
 }
