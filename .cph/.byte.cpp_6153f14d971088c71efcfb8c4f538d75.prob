@@ -1,0 +1,1 @@
+{"name":"Local: byte","url":"f:\\C++\\byte.cpp","tests":[{"id":1609252517829,"input":"2\n10 9 \n100 5000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\byte.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: gcd","url":"f:\\C++\\gcd.cpp","tests":[{"id":1606457054690,"input":"65 10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\gcd.cpp","group":"local","local":true}

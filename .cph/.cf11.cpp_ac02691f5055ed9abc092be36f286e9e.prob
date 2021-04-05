@@ -1,0 +1,1 @@
+{"name":"Local: cf11","url":"f:\\C++\\cf11.cpp","tests":[{"id":1610634570784,"input":"3\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n5 4\n2 1 5 3 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\cf11.cpp","group":"local","local":true}

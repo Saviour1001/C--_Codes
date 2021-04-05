@@ -1,0 +1,1 @@
+{"name":"Local: strings1","url":"f:\\C++\\strings1.cpp","tests":[{"id":1608645922406,"input":"5\naa?\na???\n????\nasfhaslskfak\naf??avvnfed?fav?faf????","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\strings1.cpp","group":"local","local":true}

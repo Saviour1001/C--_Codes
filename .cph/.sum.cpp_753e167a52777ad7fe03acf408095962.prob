@@ -1,0 +1,1 @@
+{"name":"Local: sum","url":"f:\\C++\\sum.cpp","tests":[{"id":1614967803793,"input":"4 8\n2 7 5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\sum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: subarray","url":"f:\\C++\\subarray.cpp","tests":[{"id":1615273973653,"input":"6\n-2 3 4 -5 10 -5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\subarray.cpp","group":"local","local":true}
