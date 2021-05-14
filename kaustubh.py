@@ -1,0 +1,1 @@
+print('network ek din ke liye chala jaye')
