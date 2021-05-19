@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"f:\\C++\\Offline\\c.cpp","tests":[{"id":1621408794090,"input":"The lazy fox jumps over the dog","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\Offline\\c.cpp","group":"local","local":true}
